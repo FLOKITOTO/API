@@ -2,7 +2,7 @@
 from pydoc import html
 from unittest import TestCase
 import unittest
-from Scraped import *
+from Scraper import *
 
 
 class TestScrapper(TestCase):
