@@ -8,7 +8,7 @@ The project is realized in python with flask and a MongoDB database
 - delete
 
 
-[REQUETTES]
+[REQUESTS]
 
 - GET 
 - POST
