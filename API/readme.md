@@ -1,4 +1,7 @@
 The project is realized in python with flask and a MongoDB database
+Minimum required is to using MongoDb compass. 
+
+Don't forget to set the name Database and name collection in the API
 
 [MongoDB_API]
 
