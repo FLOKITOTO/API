@@ -8,7 +8,6 @@ from Scraped import *
 class TestScrapper(TestCase):
     def setUp(self): 
         self.scrapper = Scraped()
-        self.urlConnectStr ="https://pythonprogramming.net/parsememcparseface/"
         self.scrapper.read_dict()
         self.scrapper.iterate_table()
 
