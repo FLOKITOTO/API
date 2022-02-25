@@ -7,7 +7,7 @@ from Scraper import *
 
 class TestScrapper(TestCase):
     def setUp(self): 
-        self.scrapper = Scraped()
+        self.scrapper = Scraper()
         self.scrapper.read_dict()
 
     def test_dict(self):
