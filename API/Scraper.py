@@ -6,7 +6,7 @@ import requests
 import json
 
 
-class Scraped:
+class Scraper:
     def __init__(self):
         self.headers = {'Content-Type': 'application/json'}
         self.urlConnectStr = "http://localhost:5001/mongodb"
@@ -48,7 +48,7 @@ class Scraped:
         print(response.text)
     
 
-execute = Scraped()
+execute = Scraper()
 execute.extract_brute()
 execute.iterate_table()
 execute.read_dict()
