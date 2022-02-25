@@ -1,7 +1,9 @@
 The project is realized in python with flask and a MongoDB database
 Minimum required is to using MongoDb compass. 
 
-Don't forget to set the name Database and name collection in the API
+Don't forget to set the name Database and name collection in your postman requests.
+
+By default I put my database : local & my collection : mozilla
 
 [MongoDB_API]
 
