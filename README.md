@@ -1,4 +1,4 @@
-# SIMPLE_SCRAPER_API_FLASK_MONGODB
+# SIMPLE_SCRAPER_API
 
 The project is realized in python with flask and a MongoDB database
 
