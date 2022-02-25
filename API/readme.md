@@ -8,7 +8,7 @@ The project is realized in python with flask and a MongoDB database
 - delete
 
 
-REQUETTES 
+[REQUETTES]
 
 - GET 
 - POST
@@ -16,7 +16,8 @@ REQUETTES
 - DELETE
 
 
-SYNTAX
+[SYNTAX] 
+**Insert to postman body**
 
 [GET]
 
